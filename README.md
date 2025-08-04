@@ -15,9 +15,9 @@
 </div>
 <br>
 
-<!--<div align="center">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelors15&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelors15&layout=compact&langs_count=8&theme=dark"/>-->
+<div align="center">
+ <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelors15&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>-->
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelors15&layout=compact&langs_count=8&theme=dark"/>
 
  <!--[![Top Languages](https://readme-stats-envoy-vc.vercel.app/api/top-langs/?username=marcelors15&layout=compact)](https://github.com/marcelors15/marcelors15)-->
 
